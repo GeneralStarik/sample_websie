@@ -1,0 +1,29 @@
+{
+  "name": "sample_website",
+  "version": "1.0.0",
+  "description": "A sample website from the tutorial \"Learn Enough HTML to Be Dangerous\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://GeneralStarik@github.com/GeneralStarik/sample_website.git"
+  },
+  "keywords": [
+    "tutorial",
+    "html",
+    "learn enough"
+  ],
+  "author": "GeneralStarik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeneralStarik/sample_website/issues"
+  },
+  "homepage": "https://github.com/GeneralStarik/sample_website#readme",
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-google": "^0.9.1"
+  },
+  "private": true
+}
